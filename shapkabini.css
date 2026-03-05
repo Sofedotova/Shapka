@@ -95,7 +95,7 @@ ul {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: #191970;
+  background-color: ##E0FFFF;
 }
 .landing-page .content .container {
   display: flex;
@@ -143,3 +143,4 @@ ul {
   max-width: 120%;
   margin-top: 50px;
 }
+

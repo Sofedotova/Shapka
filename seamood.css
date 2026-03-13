@@ -163,12 +163,12 @@ html, body {
  width: 100%;
  margin: 0 auto;
 }
-#landing .line-breaktwo {
+#landing .line-break-two {
  background: linear-gradient(60deg, #66CDAA, #000080, #FF7F50);
  width: 100%;
  margin: 0 auto;
 }
-#landing .line-breakthree {
+#landing .line-break-three {
  background: linear-gradient(60deg, #000080, #FF7F50, #66CDAA);
  width: 100%;
  margin: 0 auto;
@@ -201,5 +201,6 @@ html, body {
   width: 290px;
  }
 }
+
 
 

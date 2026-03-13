@@ -122,7 +122,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githubusercontent.com/Sofedotova/Shapka/refs/heads/main/firstplan.jpg");
+ background-image: url("https://raw.githubusercontent.com/Sofedotova/Shapka/refs/heads/main/planfirst.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -201,6 +201,7 @@ html, body {
   width: 290px;
  }
 }
+
 
 
 

@@ -73,6 +73,17 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
+.T {
+	color: #FF7F50;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.T {
+	color: #66CDAA;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.D {
+	color: #000080;
+	font-family: 'Source Sans Pro', sans-serif;
 #landing .title {
  background: white;
  padding: 60px;
@@ -190,3 +201,4 @@ html, body {
   width: 290px;
  }
 }
+

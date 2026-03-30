@@ -464,13 +464,7 @@ input:checked + .slider:before {
   flex-wrap: wrap;
 
 }
-.kartinka {
-	margin-top: -200px;
 
- margin-left: -150px;
-
- width: 40%;
-}
 .footer {
     background-color: #9370DB;
     color: white;

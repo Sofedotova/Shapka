@@ -465,10 +465,9 @@ input:checked + .slider:before {
 
 }
 .kartinka {
-	margin-top: -150px;
+	margin-top: -2000px;
 
- margin-left: -110px;
-
+ margin-left: -150px;
 
  width: 40%;
 }

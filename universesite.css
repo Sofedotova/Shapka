@@ -60,7 +60,8 @@ ul {
   font-size: 12px;
   transform: rotate(-90deg);
   margin-left: 0px;
-  margin-top: 15vw;
+  margin-top: 5vw;
+	margin-bottom: 25vw;
   letter-spacing: 0.2vw;
   z-index: 3;
 }
@@ -246,8 +247,9 @@ ul {
   font-family: 'Montserrat', sans-serif;
   font-size: 0.85vw;
   transform: rotate(-90deg);
-  margin-left: -245px;
-  margin-top: -12vw;
+  margin-left: 0px;
+  margin-top: 5vw;
+	margin-bottom: 25vw;
   letter-spacing: 0.2vw;
   z-index: 3;
 }
